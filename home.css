@@ -10,7 +10,7 @@ img {
 #navigation{
     font-size: auto;
     white-space: nowrap;
-    
+    text-align: center;
     background-color: beige;
     display: inline;
     margin-left: 5%;
