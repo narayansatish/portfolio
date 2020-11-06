@@ -8,8 +8,8 @@ img {
     border-radius: 50%;
   }
 #navigation{
-    font-size: 20px;
-    
+    font-size: auto;
+    white-space: nowrap;
     
     background-color: beige;
     display: inline;
