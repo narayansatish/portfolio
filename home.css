@@ -10,13 +10,15 @@ img {
 #navigation{
     font-size: 20px;
     
+    
     background-color: beige;
     display: inline;
-    margin-left: 10%;
+    margin-left: 5%;
    
 }
 body{
   background-color: khaki ;
+  margin: 0 auto;
 }
 .grid-container{
     margin-left: 20%;
