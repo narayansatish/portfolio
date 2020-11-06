@@ -1,22 +1,25 @@
 .image-about-div{
     margin-top: 50px;
-    width:28%;
+    
     margin-bottom:20px;
-    margin-left: 40%;
+    margin-left: 23%;
 }
 img {
     border-radius: 50%;
   }
 #navigation{
-    font-size: 30px;
+    font-size: 20px;
     
     background-color: beige;
     display: inline;
-    margin-left: 30%;
+    margin-left: 10%;
    
 }
+body{
+  background-color: khaki ;
+}
 .grid-container{
-    margin-left: 30%;
+    margin-left: 20%;
       display: grid;    
       grid-template-columns: 100px 100px 100px;
       grid-gap: 0.5rem;
@@ -24,16 +27,16 @@ img {
   
 }
 .project {
-    margin-left: 27%;
-    text-align: center;
-    margin-right: 27%;
+    margin-left: 10%;
+    font-size: large;
+    margin-right: 0%;
     border: 3px solid greenyellow;
   }
   .blog-item
-  {margin-left: 27%;
+  {margin-left: 15%;
     
-    margin-right: 27%;
-    font-size: x-large;
+    margin-right: 0%;
+    font-size: large;
     color: green;
 
   }
